@@ -1,0 +1,29 @@
+{
+  "name": "spotify-element",
+  "version": "1.0.0",
+  "authors": [
+    "Danyel Cabello <danyel.nerv@gmail.com>"
+  ],
+  "description": "An element providing a solution to show the Spotify Play Button.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "spotify"
+  ],
+  "main": "spotify-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/DKbyo/spotify-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+ "dependencies": {
+    "polymer": "^1.2.4"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
